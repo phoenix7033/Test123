@@ -15,8 +15,6 @@ int main() {
 //function added in branch1
 int func_add(int a, int b)
 {
-	// i am in main branch
-	// i am making this changes in 
-	// one more change 
+	//Changes are made now
 	return a+b;
 }
