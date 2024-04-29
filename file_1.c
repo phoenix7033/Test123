@@ -15,6 +15,6 @@ int main() {
 //function added in branch1
 int func_add(int a, int b)
 {
-	// Varsha has made a change here
+	// Varsha has made a change here.
 	return a+b;
 }
